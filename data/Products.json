@@ -1,0 +1,92 @@
+[
+	{
+	  "title": "Remera",
+	  "description": "Remera Negra",
+	  "price": 11000,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 2025,
+	  "stock": 10,
+	  "id": 1
+	},
+	{
+	  "title": "Pantalon Deportivo",
+	  "description": "Pantalon Nike deportivo Gris",
+	  "price": 18500,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 2028,
+	  "stock": 8,
+	  "id": 2
+	},
+	{
+	  "title": "Gorra",
+	  "description": "Gorra Adidas Negra",
+	  "price": 1600,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 1025,
+	  "stock": 15,
+	  "id": 3
+	},
+	{
+	  "title": "Cerealitas Mix Semillas",
+	  "description": "Galletitas saladas de semillas",
+	  "price": 400,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 1028,
+	  "stock": 250,
+	  "id": 4
+	},
+	{
+	  "title": "Pantalon Roto",
+	  "description": "Pantalón de mezclilla con roturas",
+	  "price": 1500,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 3015,
+	  "stock": 13,
+	  "id": 5
+	},
+	{
+	  "title": "Camisa",
+	  "description": "Camisa de seda estampada",
+	  "price": 2080,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 3025,
+	  "stock": 30,
+	  "id": 6
+	},
+	{
+	  "title": "Campera Jean",
+	  "description": "Campera de jean oversized ",
+	  "price": 3000,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 4001,
+	  "stock": 15,
+	  "id": 7
+	},
+	{
+	  "title": "Pantalon Cuero",
+	  "description": "Pantalón de cuero negro",
+	  "price": 12000,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 4020,
+	  "stock": 13,
+	  "id": 8
+	},
+	{
+	  "title": "Shorts Jeans",
+	  "description": "Shorts de jean desgastados",
+	  "price": 3250,
+	  "thumbnail": "No tiene Imagen",
+	  "code": 1085,
+	  "stock": 40,
+	  "id": 9
+	},
+	{
+		"title": "Vestido",
+		"description": "Vestido de fiesta rojo",
+		"price": 13000,
+		"thumbnail": "No tiene Imagen",
+		"code": 1085,
+		"stock": 36,
+		"id": 9
+	  }
+  ]
